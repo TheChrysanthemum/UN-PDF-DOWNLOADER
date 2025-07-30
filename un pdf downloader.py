@@ -25,7 +25,7 @@ MAX_WORKERS = 5 # Quantidade de threads
 def exibir_banner():
     banner = pyfiglet.figlet_format("PDFs UN", font="slant")
     print(banner)
-    print("by: The C. & Manus AI\n")
+    print("by: The C.")
 
 def limpar_nome_arquivo(nome):
     return re.sub(r'[\\/*?:"<>|]', "", nome)
