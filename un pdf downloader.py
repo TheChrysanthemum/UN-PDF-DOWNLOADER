@@ -7,8 +7,8 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import re
 
 CURSOS_CONFIG = {
-    "LF": {"nome": "Física", "base_dir": "Física", "json_local": "LF.json"},
-    "LM": {"nome": "Matemática", "base_dir": "Matemática", "json_local": "LM.json"},
+    "LF": {"nome": "Física", "base_dir": "Lições de Física", "json_local": "LF.json"},
+    "LM": {"nome": "Matemática", "base_dir": "Lições de Matemática", "json_local": "LM.json"},
     "DMAT": {"nome": "Desvendando a Matemática", "base_dir": "Desvendando a Matemática", "json_local": "DMAT.json"}
 }
 
