@@ -13,9 +13,9 @@ CURSOS_CONFIG = {
 }
 
 JSON_URLS = {
-    "LF": "https://api.telegram.org/file/bot7501400389:AAGJeCiZbdZYynN1Axai-OdXPoJCCRuEvhY/documents/file_1.json",
-    "LM": "https://api.telegram.org/file/bot7501400389:AAGJeCiZbdZYynN1Axai-OdXPoJCCRuEvhY/documents/file_0.json",
-    "DMAT": "https://api.telegram.org/file/bot7501400389:AAGJeCiZbdZYynN1Axai-OdXPoJCCRuEvhY/documents/file_2.json"
+    "LF": "https://raw.githubusercontent.com/TheChrysanthemum/UN-PDF-DOWNLOADER/main/LF.json",
+    "LM": "https://raw.githubusercontent.com/TheChrysanthemum/UN-PDF-DOWNLOADER/main/LM.json",
+    "DMAT": "https://raw.githubusercontent.com/TheChrysanthemum/UN-PDF-DOWNLOADER/main/DMAT.json"
 }
 
 MAX_WORKERS = 5 # Quantidade de threads
