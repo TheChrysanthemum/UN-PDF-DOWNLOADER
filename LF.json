@@ -1,0 +1,2848 @@
+{
+    "id": 9,
+    "alias": "LF",
+    "materials": {
+        "Frente F": {
+            "Frente F": {
+                "F01": [
+                    {
+                        "module": "F01",
+                        "moduleName": "Fundamentos de Mec\u00e2nica",
+                        "parent": "F",
+                        "parent_child": "F",
+                        "contentName": "Fundamentos de Mec\u00e2nica",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_f\/teoria_f01.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "F01",
+                        "moduleName": "Fundamentos de Mec\u00e2nica",
+                        "parent": "F",
+                        "parent_child": "F",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-F01.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-F01",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "F01",
+                        "moduleName": "Fundamentos de Mec\u00e2nica",
+                        "parent": "F",
+                        "parent_child": "F",
+                        "contentName": "Lista Aprofundada",
+                        "link": "",
+                        "type": "exercicio-ii",
+                        "listCod": "LF-F01ii",
+                        "flag": "ESSE M\u00d3DULO N\u00c3O POSSUI",
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "F02": [
+                    {
+                        "module": "F02",
+                        "moduleName": "Vetores",
+                        "parent": "F",
+                        "parent_child": "F",
+                        "contentName": "Vetores",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_f\/teoria_f02.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "F02",
+                        "moduleName": "Vetores",
+                        "parent": "F",
+                        "parent_child": "F",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-F02.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-F02",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ]
+            }
+        },
+        "Frente A": {
+            "Frente A": {
+                "A01": [
+                    {
+                        "module": "A01",
+                        "moduleName": "Introdu\u00e7\u00e3o \u00e0 Cinem\u00e1tica",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Introdu\u00e7\u00e3o \u00e0 Cinem\u00e1tica",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_a\/A01-introducao-a-cinematica.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "A01",
+                        "moduleName": "Introdu\u00e7\u00e3o \u00e0 Cinem\u00e1tica",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-A01.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-A01",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "A02": [
+                    {
+                        "module": "A02",
+                        "moduleName": "Movimento Retil\u00edneo Uniforme",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Movimento Retili\u0301neo Uniforme MRUV",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_a\/A02-movimento-retili\u0301neo-uniforme-mruv.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "A02",
+                        "moduleName": "Movimento Retil\u00edneo Uniforme",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-A02.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-A02",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "A02",
+                        "moduleName": "Movimento Retil\u00edneo Uniforme",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Lista Aprofundada",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-A02ii.pdf",
+                        "type": "exercicio-ii",
+                        "listCod": "LF-A02ii",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "A03": [
+                    {
+                        "module": "A03",
+                        "moduleName": "MRUV",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "MRUV",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_a\/A03-movimento-retili\u0301neo-uniformemente-variado-mruv.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "A03",
+                        "moduleName": "MRUV",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-A03.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-A03",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "A03",
+                        "moduleName": "MRUV",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Lista Aprofundada",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-A03ii.pdf",
+                        "type": "exercicio-ii",
+                        "listCod": "LF-A03ii",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "A04": [
+                    {
+                        "module": "A04",
+                        "moduleName": "An\u00e1lise Gr\u00e1fica",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "An\u00e1lise Gr\u00e1fica",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_a\/A04-analise-grafica.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "A04",
+                        "moduleName": "An\u00e1lise Gr\u00e1fica",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-A04.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-A04",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "A04",
+                        "moduleName": "An\u00e1lise Gr\u00e1fica",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Lista Aprofundada",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-A04ii.pdf",
+                        "type": "exercicio-ii",
+                        "listCod": "LF-A04ii",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "A05": [
+                    {
+                        "module": "A05",
+                        "moduleName": "Cinema\u0301tica Vetorial",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Cinema\u0301tica Vetorial",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_a\/A05-cinema\u0301tica-vetorial.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "A05",
+                        "moduleName": "Cinem\u00e1tica Vetorial",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-A05.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-A05",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "A05",
+                        "moduleName": "Cinem\u00e1tica Vetorial",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Lista Aprofundada",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-A05ii.pdf",
+                        "type": "exercicio-ii",
+                        "listCod": "LF-A05ii",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "A06": [
+                    {
+                        "module": "A06",
+                        "moduleName": "Lan\u00e7amentos",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Lan\u00e7amentos",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_a\/A06-lancamentos.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "A06",
+                        "moduleName": "Lan\u00e7amentos",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Par\u00e1bola de Prote\u00e7\u00e3o",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_a\/A06-Militares-parabola-protecao.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": "APROFUNDAMENTO",
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "A06",
+                        "moduleName": "Lan\u00e7amentos",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-A06.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-A06",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "A06",
+                        "moduleName": "Lan\u00e7amentos",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Lista Aprofundada",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-A06ii.pdf",
+                        "type": "exercicio-ii",
+                        "listCod": "LF-A06ii",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "A07": [
+                    {
+                        "module": "A07",
+                        "moduleName": "Movimento Circular",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Militares CRI",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_a\/A07-Militares-cri.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": "APROFUNDAMENTO",
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "A07",
+                        "moduleName": "Movimento Circular",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Movimento Circular",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_a\/A07-movimento-circular.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "A07",
+                        "moduleName": "Movimento Circular",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-A07.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-A07",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "A07",
+                        "moduleName": "Movimento Circular",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Lista Aprofundada",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-A07ii.pdf",
+                        "type": "exercicio-ii",
+                        "listCod": "LF-A07ii",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "A08": [
+                    {
+                        "module": "A08",
+                        "moduleName": "Leis de Newton",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Leis De Newton",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_a\/A08-leis-de-newton.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "A08",
+                        "moduleName": "Leis de Newton",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Militares Referenciais",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_a\/A08-Militares-referenciais.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": "APROFUNDAMENTO I",
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "A08",
+                        "moduleName": "Leis de Newton",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Militares Vinculos",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_a\/A08-militares-vinculos.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": "APROFUNDAMENTO II",
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "A08",
+                        "moduleName": "Leis de Newton",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-A08.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-A08",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "A08",
+                        "moduleName": "Leis de Newton",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Lista Aprofundada",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-A08ii.pdf",
+                        "type": "exercicio-ii",
+                        "listCod": "LF-A08ii",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "A09": [
+                    {
+                        "module": "A09",
+                        "moduleName": "Atrito e Resist\u00eancia do Ar",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Atrito e Resistencia Do Ar",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_a\/A09-atrito-e-resistencia-do-ar.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "A09",
+                        "moduleName": "Atrito e Resist\u00eancia do Ar",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-A09.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-A09",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "A09",
+                        "moduleName": "Atrito e Resist\u00eancia do Ar",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Lista Aprofundada",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-A09ii.pdf",
+                        "type": "exercicio-ii",
+                        "listCod": "LF-A09ii",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "A10": [
+                    {
+                        "module": "A10",
+                        "moduleName": "Din\u00e2mica no Movimento Circular",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Din\u00e2mica no Movimento Curvili\u0301neo",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_a\/A10-dinamica-no-movimento-curvili\u0301neo.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "A10",
+                        "moduleName": "Din\u00e2mica no Movimento Circular",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-A10.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-A10",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "A10",
+                        "moduleName": "Din\u00e2mica no Movimento Circular",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Lista Aprofundada",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-A10ii.pdf",
+                        "type": "exercicio-ii",
+                        "listCod": "LF-A10ii",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "A11": [
+                    {
+                        "module": "A11",
+                        "moduleName": "Trabalho e Energia",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Trabalho e Energia",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_a\/A11-trabalho-e-energia.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "A11",
+                        "moduleName": "Trabalho e Energia",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-A11.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-A11",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "A11",
+                        "moduleName": "Trabalho e Energia",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Lista Aprofundada",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-A11ii.pdf",
+                        "type": "exercicio-ii",
+                        "listCod": "LF-A11ii",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "A12": [
+                    {
+                        "module": "A12",
+                        "moduleName": "Impulso e Quantidade de Movimento",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Impulso e Quantidade de Movimento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_a\/A12-impulso-e-quantidade-de-movimento.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "A12",
+                        "moduleName": "Impulso e Quantidade de Movimento",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-A12.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-A12",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "A13": [
+                    {
+                        "module": "A13",
+                        "moduleName": "Colis\u00f5es",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Colis\u00f5es",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_a\/A13-colisoes.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "A13",
+                        "moduleName": "Colis\u00f5es",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-A13.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-A13",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "A13",
+                        "moduleName": "Colis\u00f5es",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Lista Aprofundada",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-A13ii.pdf",
+                        "type": "exercicio-ii",
+                        "listCod": "LF-A13ii",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "A14": [
+                    {
+                        "module": "A14",
+                        "moduleName": "Equil\u00edbrio de Corpo Extenso",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Din\u00e2mica da Rota\u00e7\u00e3o Aprofundamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_a\/A14-dinamica-da-rotacao-aprofundamento.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": "APROFUNDAMENTO I",
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "A14",
+                        "moduleName": "Equil\u00edbrio de Corpo Extenso",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Equili\u0301brio de Corpo Extenso",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_a\/A14-equili\u0301brio-de-corpo-extenso.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "A14",
+                        "moduleName": "Equil\u00edbrio de Corpo Extenso",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Treli\u00e7as Aprofundamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_a\/A14-trelicas-aprofundamento.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": "APROFUNDAMENTO II",
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "A14",
+                        "moduleName": "Equil\u00edbrio de Corpo Extenso",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-A14.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-A14",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "A14",
+                        "moduleName": "Equil\u00edbrio de Corpo Extenso",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Lista Aprofundada",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-A14ii.pdf",
+                        "type": "exercicio-ii",
+                        "listCod": "LF-A14ii",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "A15": [
+                    {
+                        "module": "A15",
+                        "moduleName": "Leis de Kepler",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Leis De Kepler",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_a\/A15-leis-de-kepler.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "A15",
+                        "moduleName": "Leis de Kepler",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-A15.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-A15",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "A15",
+                        "moduleName": "Leis de Kepler",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Lista Aprofundada",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-A15ii.pdf",
+                        "type": "exercicio-ii",
+                        "listCod": "LF-A15ii",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "A16": [
+                    {
+                        "module": "A16",
+                        "moduleName": "Gravita\u00e7\u00e3o",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Gravita\u00e7\u00e3o Aprofundamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_a\/A16-gravitacao-aprofundamento.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": "APROFUNDAMENTO",
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "A16",
+                        "moduleName": "Gravita\u00e7\u00e3o",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Gravita\u00e7\u00e3o",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_a\/A16-gravitacao.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "A16",
+                        "moduleName": "Gravita\u00e7\u00e3o",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-A16.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-A16",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "A16",
+                        "moduleName": "Gravita\u00e7\u00e3o",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Lista Aprofundada",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-A16ii.pdf",
+                        "type": "exercicio-ii",
+                        "listCod": "LF-A16ii",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "A17": [
+                    {
+                        "module": "A17",
+                        "moduleName": "Hidrost\u00e1tica",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Empuxo Aprofundamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_a\/A17-empuxo-aprofundamento.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": "APROFUNDAMENTO",
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "A17",
+                        "moduleName": "Hidrost\u00e1tica",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Hidrost\u00e1tica",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_a\/A17-hidrostatica.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "A17",
+                        "moduleName": "Hidrost\u00e1tica",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-A17.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-A17",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "A17",
+                        "moduleName": "Hidrost\u00e1tica",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Lista Aprofundada",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-A17ii.pdf",
+                        "type": "exercicio-ii",
+                        "listCod": "LF-A17ii",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "A18": [
+                    {
+                        "module": "A18",
+                        "moduleName": "Hidrodin\u00e2mica",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "No\u00e7\u00f5es de Hidrodin\u00e2mica",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_a\/A18-nocoes-de-hidrodinamica.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "A18",
+                        "moduleName": "Hidrodin\u00e2mica",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-A18.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-A18",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "A19": [
+                    {
+                        "module": "A19",
+                        "moduleName": "An\u00e1lise Dimensional",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Analise Dimensional",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_a\/A19-analise-dimensional.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "A19",
+                        "moduleName": "An\u00e1lise Dimensional",
+                        "parent": "A",
+                        "parent_child": "A",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-A19.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-A19",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ]
+            }
+        },
+        "Frente B": {
+            "Frente B": {
+                "B01": [
+                    {
+                        "module": "B01",
+                        "moduleName": "Temperatura",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Temperatura",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_b\/B01-temperatura.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "B01",
+                        "moduleName": "Temperatura",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-B01.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-B01",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "B01",
+                        "moduleName": "Temperatura",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Lista Aprofundada",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-B01ii.pdf",
+                        "type": "exercicio-ii",
+                        "listCod": "LF-B01ii",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "B02": [
+                    {
+                        "module": "B02",
+                        "moduleName": "Propaga\u00e7\u00e3o do Calor",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Propaga\u00e7\u00e3o do Calor",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_b\/B02-propagacao-do-calor.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "B02",
+                        "moduleName": "Propaga\u00e7\u00e3o do Calor",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-B02.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-B02",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "B02",
+                        "moduleName": "Propaga\u00e7\u00e3o do Calor",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Lista Aprofundada",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-B02ii.pdf",
+                        "type": "exercicio-ii",
+                        "listCod": "LF-B02ii",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "B03": [
+                    {
+                        "module": "B03",
+                        "moduleName": "Dilatometria",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Dilatometria",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_b\/B03-dilatometria.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "B03",
+                        "moduleName": "Dilatometria",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-B03.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-B03",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "B04": [
+                    {
+                        "module": "B04",
+                        "moduleName": "Calorimetria",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Calorimetria",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_b\/B04-calorimetria.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "B04",
+                        "moduleName": "Calorimetria",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Militares Resist\u00eancia T\u00e9rmica",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_b\/B04-militares-resistencia-termica.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": "APROFUNDAMENTO",
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "B04",
+                        "moduleName": "Calorimetria",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-B04.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-B04",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "B04",
+                        "moduleName": "Calorimetria",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Lista Aprofundada",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-B04ii.pdf",
+                        "type": "exercicio-ii",
+                        "listCod": "LF-B04ii",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "B05": [
+                    {
+                        "module": "B05",
+                        "moduleName": "Gases",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Gases",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_b\/B05-gases.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "B05",
+                        "moduleName": "Gases",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-B05.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-B05",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "B05",
+                        "moduleName": "Gases",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Lista Aprofundada",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-B05ii.pdf",
+                        "type": "exercicio-ii",
+                        "listCod": "LF-B05ii",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "B06": [
+                    {
+                        "module": "B06",
+                        "moduleName": "Introdu\u00e7\u00e3o \u00e0 Termodin\u00e2mica + lei zero",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Lei Zero da Termodin\u00e2mica",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_b\/B06-lei-zero-da-termodinamica.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "B07": [
+                    {
+                        "module": "B07",
+                        "moduleName": "1\u00aa lei da termodin\u00e2mica",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Militares Primeira Lei",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_b\/B07-militares-primeira-lei.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": "APROFUNDAMENTO",
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "B07",
+                        "moduleName": "1\u00aa lei da termodin\u00e2mica",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Primeira Lei Da Termodin\u00e2mica",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_b\/B07-primeira-lei-da-termodinamica.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "B07",
+                        "moduleName": "1\u00aa lei da termodin\u00e2mica",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-B07.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-B07",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "B07",
+                        "moduleName": "1\u00aa lei da termodin\u00e2mica",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Lista Aprofundada",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-B07ii.pdf",
+                        "type": "exercicio-ii",
+                        "listCod": "LF-B07ii",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "B08": [
+                    {
+                        "module": "B08",
+                        "moduleName": "2\u00aa lei da termodin\u00e2mica",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Militares Entropia",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_b\/B08-militares-entropia.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "B08",
+                        "moduleName": "2\u00aa lei da termodin\u00e2mica",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Segunda Lei Da Termodin\u00e2mica",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_b\/B08-segunda-lei-da-termodinamica.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "B08",
+                        "moduleName": "2\u00aa lei da termodin\u00e2mica",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-B08.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-B08",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "B08",
+                        "moduleName": "2\u00aa lei da termodin\u00e2mica",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Lista Aprofundada",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-B08ii.pdf",
+                        "type": "exercicio-ii",
+                        "listCod": "LF-B08ii",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "B09": [
+                    {
+                        "module": "B09",
+                        "moduleName": "Fundamentos da \u00d3ptica Geom\u00e9trica",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Fundamentos Da \u00d3ptica Geom\u00e9trica",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_b\/B09-fundamentos-da-optica-geometrica.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "B09",
+                        "moduleName": "Fundamentos da \u00d3ptica Geom\u00e9trica",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-B09.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-B09",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "B10": [
+                    {
+                        "module": "B10",
+                        "moduleName": "Espelhos Planos",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Espelhos Planos",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_b\/B10-espelhos-planos.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "B10",
+                        "moduleName": "Espelhos Planos",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-B10.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-B10",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "B10",
+                        "moduleName": "Espelhos Planos",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Lista Aprofundada",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-B10ii.pdf",
+                        "type": "exercicio-ii",
+                        "listCod": "LF-B10ii",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "B11": [
+                    {
+                        "module": "B11",
+                        "moduleName": "Espelhos Esf\u00e9ricos",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Espelhos Esf\u00e9ricos",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_b\/B11-espelhos-esfericos.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "B11",
+                        "moduleName": "Espelhos Esf\u00e9ricos",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-B11.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-B11",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "B11",
+                        "moduleName": "Espelhos Esf\u00e9ricos",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Lista Aprofundada",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-B11ii.pdf",
+                        "type": "exercicio-ii",
+                        "listCod": "LF-B11ii",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "B12": [
+                    {
+                        "module": "B12",
+                        "moduleName": "Refra\u00e7\u00e3o da Luz",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Refra\u00e7\u00e3o",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_b\/B12-refracao.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "B12",
+                        "moduleName": "Refra\u00e7\u00e3o da Luz",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-B12.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-B12",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "B12",
+                        "moduleName": "Refra\u00e7\u00e3o da Luz",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Lista Aprofundada",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-B12ii.pdf",
+                        "type": "exercicio-ii",
+                        "listCod": "LF-B12ii",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "B13": [
+                    {
+                        "module": "B13",
+                        "moduleName": "Lentes",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Lentes",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_b\/B13-lentes.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "B13",
+                        "moduleName": "Lentes",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-B13.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-B13",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "B13",
+                        "moduleName": "Lentes",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Lista Aprofundada",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-B13ii.pdf",
+                        "type": "exercicio-ii",
+                        "listCod": "LF-B13ii",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "B14": [
+                    {
+                        "module": "B14",
+                        "moduleName": "Instrumentos \u00d3pticos e Olho Humano",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Instrumentos \u00d3pticos e Olho Humano",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_b\/B14-instrumentos-opticos-e-olho-humano.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "B14",
+                        "moduleName": "Instrumentos \u00d3pticos e Olho Humano",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-B14.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-B14",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "B15": [
+                    {
+                        "module": "B15",
+                        "moduleName": "MHS",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "MHS",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_b\/B15-mhs.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "B15",
+                        "moduleName": "MHS",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Militares MHS",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_b\/B15-militares-mhs.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": "APROFUNDAMENTO",
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "B15",
+                        "moduleName": "MHS",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-B15.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-B15",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "B15",
+                        "moduleName": "MHS",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Lista Aprofundada",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-B15ii.pdf",
+                        "type": "exercicio-ii",
+                        "listCod": "LF-B15ii",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "B16": [
+                    {
+                        "module": "B16",
+                        "moduleName": "Introdu\u00e7\u00e3o \u00e0 Ondulat\u00f3ria",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Introdu\u00e7\u00e3o a Ondulato\u0301ria",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_b\/B16-introducao-a-ondulato\u0301ria.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "B16",
+                        "moduleName": "Introdu\u00e7\u00e3o \u00e0 Ondulat\u00f3ria",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-B16.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-B16",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "B17": [
+                    {
+                        "module": "B17",
+                        "moduleName": "Fen\u00f4menos Ondulat\u00f3rios",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Fen\u00f4menos Ondulat\u00f3rios",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_b\/B17-fenomenos-ondulatorios.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "B17",
+                        "moduleName": "Fen\u00f4menos Ondulat\u00f3rios",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-B17.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-B17",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "B17",
+                        "moduleName": "Fen\u00f4menos Ondulat\u00f3rios",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Lista Aprofundada",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-B17ii.pdf",
+                        "type": "exercicio-ii",
+                        "listCod": "LF-B17ii",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "B18": [
+                    {
+                        "module": "B18",
+                        "moduleName": "Ondas Estacion\u00e1rias",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Ondas Estacion\u00e1rias",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_b\/B18-ondas-estacionarias.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "B18",
+                        "moduleName": "Ondas Estacion\u00e1rias",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-B18.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-B18",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "B18",
+                        "moduleName": "Ondas Estacion\u00e1rias",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Lista Aprofundada",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-B18ii.pdf",
+                        "type": "exercicio-ii",
+                        "listCod": "LF-B18ii",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "B19": [
+                    {
+                        "module": "B19",
+                        "moduleName": "Ac\u00fastica",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Ac\u00fastica e Efeito Doppler",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_b\/B19-acustica-e-efeito-doppler.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "B19",
+                        "moduleName": "Ac\u00fastica",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-B19.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-B19",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "B19",
+                        "moduleName": "Ac\u00fastica",
+                        "parent": "B",
+                        "parent_child": "B",
+                        "contentName": "Lista Aprofundada",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-B19ii.pdf",
+                        "type": "exercicio-ii",
+                        "listCod": "LF-B19ii",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ]
+            }
+        },
+        "Frente C": {
+            "Frente C": {
+                "C01": [
+                    {
+                        "module": "C01",
+                        "moduleName": "Carga El\u00e9trica e Processos de Eletriza\u00e7\u00e3o",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Carga Ele\u0301trica e Processos De Eletriza\u00e7\u00e3o",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_c\/C01-carga-ele\u0301trica-e-processos-de-eletrizacao.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "C01",
+                        "moduleName": "Carga El\u00e9trica e Processos de Eletriza\u00e7\u00e3o",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-C01.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-C01",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "C01",
+                        "moduleName": "Carga El\u00e9trica e Processos de Eletriza\u00e7\u00e3o",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Lista Aprofundada",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-C01ii.pdf",
+                        "type": "exercicio-ii",
+                        "listCod": "LF-C01ii",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "C02": [
+                    {
+                        "module": "C02",
+                        "moduleName": "For\u00e7a El\u00e9trica",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "For\u00e7a El\u00e9trica",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_c\/C02-foraa-eletrica.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "C02",
+                        "moduleName": "For\u00e7a El\u00e9trica",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-C02.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-C02",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "C02",
+                        "moduleName": "For\u00e7a El\u00e9trica",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Lista Aprofundada",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-C02ii.pdf",
+                        "type": "exercicio-ii",
+                        "listCod": "LF-C02ii",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "C03": [
+                    {
+                        "module": "C03",
+                        "moduleName": "Campo El\u00e9trico",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Campo El\u00e9trico",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_c\/C03-campo-eletrico.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "C03",
+                        "moduleName": "Campo El\u00e9trico",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Lei de Gauss Aprofundamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_c\/C03-lei-de-gauss-aprofundamento.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": "APROFUNDAMENTO",
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "C03",
+                        "moduleName": "Campo El\u00e9trico",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-C03.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-C03",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "C03",
+                        "moduleName": "Campo El\u00e9trico",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Lista Aprofundada",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-C03ii.pdf",
+                        "type": "exercicio-ii",
+                        "listCod": "LF-C03ii",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "C04": [
+                    {
+                        "module": "C04",
+                        "moduleName": "Potencial El\u00e9trico",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Potencial El\u00e9trico",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_c\/C04-potencial-eletrico.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "C04",
+                        "moduleName": "Potencial El\u00e9trico",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-C04.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-C04",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "C04",
+                        "moduleName": "Potencial El\u00e9trico",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Lista Aprofundada",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-C04ii.pdf",
+                        "type": "exercicio-ii",
+                        "listCod": "LF-C04ii",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "C05": [
+                    {
+                        "module": "C05",
+                        "moduleName": "Condutores",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Condutores",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_c\/C05-condutores.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "C05",
+                        "moduleName": "Condutores",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-C05.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-C05",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "C05",
+                        "moduleName": "Condutores",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Lista Aprofundada",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-C05ii.pdf",
+                        "type": "exercicio-ii",
+                        "listCod": "LF-C05ii",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "C06": [
+                    {
+                        "module": "C06",
+                        "moduleName": "Corrente El\u00e9trica",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Corrente El\u00e9trica",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_c\/C06-corrente-eletrica.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "C06",
+                        "moduleName": "Corrente El\u00e9trica",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-C06.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-C06",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "C06",
+                        "moduleName": "Corrente El\u00e9trica",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Lista Aprofundada",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-C06ii.pdf",
+                        "type": "exercicio-ii",
+                        "listCod": "LF-C06ii",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "C07": [
+                    {
+                        "module": "C07",
+                        "moduleName": "Lei de Ohm e Resistores",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Lei De Ohm e Resistores",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_c\/C07-lei-de-ohm-e-resistores.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "C07",
+                        "moduleName": "Lei de Ohm e Resistores",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-C07.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-C07",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "C07",
+                        "moduleName": "Lei de Ohm e Resistores",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Lista Aprofundada",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-C07ii.pdf",
+                        "type": "exercicio-ii",
+                        "listCod": "LF-C07ii",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "C08": [
+                    {
+                        "module": "C08",
+                        "moduleName": "Associa\u00e7\u00e3o de Resistores",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Associa\u00e7\u00e3o de Resistores",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_c\/C08-associacao-de-resistores.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "C08",
+                        "moduleName": "Associa\u00e7\u00e3o de Resistores",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Militares Circuitos",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_c\/C08-militares-circuitos.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": "APROFUNDAMENTO",
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "C08",
+                        "moduleName": "Associa\u00e7\u00e3o de Resistores",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-C08.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-C08",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "C09": [
+                    {
+                        "module": "C09",
+                        "moduleName": "Instrumentos Medida El\u00e9trica",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Instrumentos de Medida El\u00e9trica",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_c\/C09-Instrumentos-de-medida-eletrica.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "C09",
+                        "moduleName": "Instrumentos Medida El\u00e9trica",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-C09.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-C09",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "C09",
+                        "moduleName": "Instrumentos Medida El\u00e9trica",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Lista Aprofundada",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-C09ii.pdf",
+                        "type": "exercicio-ii",
+                        "listCod": "LF-C09ii",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "C10": [
+                    {
+                        "module": "C10",
+                        "moduleName": "Geradores e Receptores",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Geradores e Receptores",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_c\/C10-geradores-e-receptores.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "C10",
+                        "moduleName": "Geradores e Receptores",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-C10.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-C10",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "C10",
+                        "moduleName": "Geradores e Receptores",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Lista Aprofundada",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-C10ii.pdf",
+                        "type": "exercicio-ii",
+                        "listCod": "LF-C10ii",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "C11": [
+                    {
+                        "module": "C11",
+                        "moduleName": "Capacitores",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Capacitores Aprofundamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_c\/C11-capacitores-aprofundamento.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": "APROFUNDAMENTO",
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "C11",
+                        "moduleName": "Capacitores",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Capacitores",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_c\/C11-capacitores.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "C11",
+                        "moduleName": "Capacitores",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-C11.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-C11",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "C11",
+                        "moduleName": "Capacitores",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Lista Aprofundada",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-C11ii.pdf",
+                        "type": "exercicio-ii",
+                        "listCod": "LF-C11ii",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "C12": [
+                    {
+                        "module": "C12",
+                        "moduleName": "Campo Magn\u00e9tico",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Campo Magn\u00e9tico",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_c\/C12-campo-magnetico.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "C12",
+                        "moduleName": "Campo Magn\u00e9tico",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-C12.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-C12",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "C13": [
+                    {
+                        "module": "C13",
+                        "moduleName": "For\u00e7a Magn\u00e9tica",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "For\u00e7a Magn\u00e9tica",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_c\/C13-forca-magnetica.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "C13",
+                        "moduleName": "For\u00e7a Magn\u00e9tica",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-C13.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-C13",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "C13",
+                        "moduleName": "For\u00e7a Magn\u00e9tica",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Lista Aprofundada",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-C13ii.pdf",
+                        "type": "exercicio-ii",
+                        "listCod": "LF-C13ii",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "C14": [
+                    {
+                        "module": "C14",
+                        "moduleName": "Fontes de Campo Magn\u00e9tico",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Fontes de Campo Magn\u00e9tico",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_c\/C14-fontes-de-campo-magnetico.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "C14",
+                        "moduleName": "Fontes de Campo Magn\u00e9tico",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-C14.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-C14",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "C14",
+                        "moduleName": "Fontes de Campo Magn\u00e9tico",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Lista Aprofundada",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-C14ii.pdf",
+                        "type": "exercicio-ii",
+                        "listCod": "LF-C14ii",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "C15": [
+                    {
+                        "module": "C15",
+                        "moduleName": "Indu\u00e7\u00e3o Eletromagn\u00e9tica",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Indu\u00e7\u00e3o Eletromagn\u00e9tica",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_c\/C15-inducao-eletromagnetica.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "C15",
+                        "moduleName": "Indu\u00e7\u00e3o Eletromagn\u00e9tica",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-C15.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-C15",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "C15",
+                        "moduleName": "Indu\u00e7\u00e3o Eletromagn\u00e9tica",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Lista Aprofundada",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-C15ii.pdf",
+                        "type": "exercicio-ii",
+                        "listCod": "LF-C15ii",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "C16": [
+                    {
+                        "module": "C16",
+                        "moduleName": "Introdu\u00e7\u00e3o \u00e0 F\u00edsica Qu\u00e2ntica e F\u00edsica Moderna",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Introdu\u00e7\u00e3o a F\u00edsica Qu\u00e2ntica",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_c\/C16-introducao-a-fisica-quantica.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "C16",
+                        "moduleName": "Introdu\u00e7\u00e3o \u00e0 F\u00edsica Qu\u00e2ntica e F\u00edsica Moderna",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-C16.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-C16",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "C17": [
+                    {
+                        "module": "C17",
+                        "moduleName": "Efeito Fotoel\u00e9trico e Comportamento Dual",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Efeito Fotoele\u0301trico e Comportamento Dual",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_c\/C17-efeito-fotoele\u0301trico-e-comportamento-dual.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "C17",
+                        "moduleName": "Efeito Fotoel\u00e9trico e Comportamento Dual",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-C17.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-C17",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "C17",
+                        "moduleName": "Efeito Fotoel\u00e9trico e Comportamento Dual",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Lista Aprofundada",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-C17ii.pdf",
+                        "type": "exercicio-ii",
+                        "listCod": "LF-C17ii",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "C18": [
+                    {
+                        "module": "C18",
+                        "moduleName": "Introdu\u00e7\u00e3o \u00e0 Relatividade Especial",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Din\u00e2mica Relativ\u00edstica",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_c\/C18-dinamica-relativistica.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "C18",
+                        "moduleName": "Introdu\u00e7\u00e3o \u00e0 Relatividade Especial",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Introduc\u0327\u00e3o a Teoria da Relatividade Especial",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_c\/C18-introduc\u0327a\u0303o-a-teoria-da-relatividade-especial.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "C18",
+                        "moduleName": "Introdu\u00e7\u00e3o \u00e0 Relatividade Especial",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-C18.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-C18",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "C18",
+                        "moduleName": "Introdu\u00e7\u00e3o \u00e0 Relatividade Especial",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Lista Aprofundada",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-C18ii.pdf",
+                        "type": "exercicio-ii",
+                        "listCod": "LF-C18ii",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "C19": [
+                    {
+                        "module": "C19",
+                        "moduleName": "F\u00edsica Nuclear",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "F\u00edsica Nuclear",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/lf\/frente_c\/C19-fisica-nuclear.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "C19",
+                        "moduleName": "F\u00edsica Nuclear",
+                        "parent": "C",
+                        "parent_child": "C",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/lf\/UNLista-LF-C19.pdf",
+                        "type": "exercicio",
+                        "listCod": "LF-C19",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ]
+            }
+        },
+        "Desafios": {
+            "Desafios": {
+                "A03": [
+                    {
+                        "module": "A03",
+                        "moduleName": "MRUV",
+                        "parent": "Desafios",
+                        "parent_child": "A",
+                        "contentName": "MRUV",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/desafios-v2\/LFDES01.pdf",
+                        "type": "desafio",
+                        "listCod": "LF-A03d",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "A04": [
+                    {
+                        "module": "A04",
+                        "moduleName": "An\u00e1lise Gr\u00e1fica",
+                        "parent": "Desafios",
+                        "parent_child": "A",
+                        "contentName": "An\u00e1lise Gr\u00e1fica",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/desafios-v2\/LFDES02.pdf",
+                        "type": "desafio",
+                        "listCod": "LF-A04d",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "A05": [
+                    {
+                        "module": "A05",
+                        "moduleName": "Cinem\u00e1tica Vetorial",
+                        "parent": "Desafios",
+                        "parent_child": "A",
+                        "contentName": "Cinem\u00e1tica Vetorial",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/desafios-v2\/LFDES03.pdf",
+                        "type": "desafio",
+                        "listCod": "LF-A05d",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "A06": [
+                    {
+                        "module": "A06",
+                        "moduleName": "Lan\u00e7amentos",
+                        "parent": "Desafios",
+                        "parent_child": "A",
+                        "contentName": "Lan\u00e7amentos",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/desafios-v2\/LFDES04.pdf",
+                        "type": "desafio",
+                        "listCod": "LF-A06d",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "A07": [
+                    {
+                        "module": "A07",
+                        "moduleName": "Movimento Circular",
+                        "parent": "Desafios",
+                        "parent_child": "A",
+                        "contentName": "Movimento Circular",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/desafios-v2\/LFDES05.pdf",
+                        "type": "desafio",
+                        "listCod": "LF-A07d",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "A08": [
+                    {
+                        "module": "A08",
+                        "moduleName": "Leis de Newton",
+                        "parent": "Desafios",
+                        "parent_child": "A",
+                        "contentName": "Leis de Newton",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/desafios-v2\/LFDES06.pdf",
+                        "type": "desafio",
+                        "listCod": "LF-A08d",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "A09": [
+                    {
+                        "module": "A09",
+                        "moduleName": "Atrito e Resist\u00eancia do Ar",
+                        "parent": "Desafios",
+                        "parent_child": "A",
+                        "contentName": "Atrito e Resist\u00eancia do Ar",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/desafios-v2\/LFDES07.pdf",
+                        "type": "desafio",
+                        "listCod": "LF-A09d",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "A10": [
+                    {
+                        "module": "A10",
+                        "moduleName": "Din\u00e2mica no Movimento Circular",
+                        "parent": "Desafios",
+                        "parent_child": "A",
+                        "contentName": "Din\u00e2mica no Movimento Circular",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/desafios-v2\/LFDES08.pdf",
+                        "type": "desafio",
+                        "listCod": "LF-A10d",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "A13": [
+                    {
+                        "module": "A13",
+                        "moduleName": "Colis\u00f5es",
+                        "parent": "Desafios",
+                        "parent_child": "A",
+                        "contentName": "Colis\u00f5es",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/desafios-v2\/LFDES09.pdf",
+                        "type": "desafio",
+                        "listCod": "LF-A13d",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "A14": [
+                    {
+                        "module": "A14",
+                        "moduleName": "Equil\u00edbrio de Corpo Extenso",
+                        "parent": "Desafios",
+                        "parent_child": "A",
+                        "contentName": "Equil\u00edbrio de Corpo Extenso",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/desafios-v2\/LFDES10.pdf",
+                        "type": "desafio",
+                        "listCod": "LF-A14d",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "A16": [
+                    {
+                        "module": "A16",
+                        "moduleName": "Gravita\u00e7\u00e3o",
+                        "parent": "Desafios",
+                        "parent_child": "A",
+                        "contentName": "Gravita\u00e7\u00e3o",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/desafios-v2\/LFDES11.pdf",
+                        "type": "desafio",
+                        "listCod": "LF-A16d",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "B05": [
+                    {
+                        "module": "B05",
+                        "moduleName": "Gases",
+                        "parent": "Desafios",
+                        "parent_child": "B",
+                        "contentName": "Gases",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/desafios-v2\/LFDES12.pdf",
+                        "type": "desafio",
+                        "listCod": "LF-B05d",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "B07": [
+                    {
+                        "module": "B07",
+                        "moduleName": "1\u00aa lei da termodin\u00e2mica",
+                        "parent": "Desafios",
+                        "parent_child": "B",
+                        "contentName": "1\u00aa lei da termodin\u00e2mica",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/desafios-v2\/LFDES13.pdf",
+                        "type": "desafio",
+                        "listCod": "LF-B07d",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "B08": [
+                    {
+                        "module": "B08",
+                        "moduleName": "2\u00aa lei da termodin\u00e2mica",
+                        "parent": "Desafios",
+                        "parent_child": "B",
+                        "contentName": "2\u00aa lei da termodin\u00e2mica",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/desafios-v2\/LFDES14.pdf",
+                        "type": "desafio",
+                        "listCod": "LF-B08d",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "B12": [
+                    {
+                        "module": "B12",
+                        "moduleName": "Refra\u00e7\u00e3o da Luz",
+                        "parent": "Desafios",
+                        "parent_child": "B",
+                        "contentName": "Refra\u00e7\u00e3o da Luz",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/desafios-v2\/LFDES16.pdf",
+                        "type": "desafio",
+                        "listCod": "LF-B12d",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "B15": [
+                    {
+                        "module": "B15",
+                        "moduleName": "MHS",
+                        "parent": "Desafios",
+                        "parent_child": "B",
+                        "contentName": "MHS",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/desafios-v2\/LFDES17.pdf",
+                        "type": "desafio",
+                        "listCod": "LF-B15d",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "B17": [
+                    {
+                        "module": "B17",
+                        "moduleName": "Fen\u00f4menos Ondulat\u00f3rios",
+                        "parent": "Desafios",
+                        "parent_child": "B",
+                        "contentName": "Fen\u00f4menos Ondulat\u00f3rios",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/desafios-v2\/LFDES18.pdf",
+                        "type": "desafio",
+                        "listCod": "LF-B17d",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "B19": [
+                    {
+                        "module": "B19",
+                        "moduleName": "Ac\u00fastica",
+                        "parent": "Desafios",
+                        "parent_child": "B",
+                        "contentName": "Ac\u00fastica",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/desafios-v2\/LFDES19.pdf",
+                        "type": "desafio",
+                        "listCod": "LF-B19d",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "C02": [
+                    {
+                        "module": "C02",
+                        "moduleName": "For\u00e7a El\u00e9trica",
+                        "parent": "Desafios",
+                        "parent_child": "C",
+                        "contentName": "For\u00e7a El\u00e9trica",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/desafios-v2\/LFDES20.pdf",
+                        "type": "desafio",
+                        "listCod": "LF-C02d",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "C03": [
+                    {
+                        "module": "C03",
+                        "moduleName": "Campo El\u00e9trico",
+                        "parent": "Desafios",
+                        "parent_child": "C",
+                        "contentName": "Campo El\u00e9trico",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/desafios-v2\/LFDES21.pdf",
+                        "type": "desafio",
+                        "listCod": "LF-C03d",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "C04": [
+                    {
+                        "module": "C04",
+                        "moduleName": "Potencial El\u00e9trico",
+                        "parent": "Desafios",
+                        "parent_child": "C",
+                        "contentName": "Potencial El\u00e9trico",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/desafios-v2\/LFDES22.pdf",
+                        "type": "desafio",
+                        "listCod": "LF-C04d",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "C08": [
+                    {
+                        "module": "C08",
+                        "moduleName": "Associa\u00e7\u00e3o de Resistores",
+                        "parent": "Desafios",
+                        "parent_child": "C",
+                        "contentName": "Associa\u00e7\u00e3o de Resistores",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/desafios-v2\/LFDES23.pdf",
+                        "type": "desafio",
+                        "listCod": "LF-C08d",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "C11": [
+                    {
+                        "module": "C11",
+                        "moduleName": "Capacitores",
+                        "parent": "Desafios",
+                        "parent_child": "C",
+                        "contentName": "Capacitores",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/desafios-v2\/LFDES24.pdf",
+                        "type": "desafio",
+                        "listCod": "LF-C11d",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "C13": [
+                    {
+                        "module": "C13",
+                        "moduleName": "For\u00e7a Magn\u00e9tica",
+                        "parent": "Desafios",
+                        "parent_child": "C",
+                        "contentName": "For\u00e7a Magn\u00e9tica",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/desafios-v2\/LFDES25.pdf",
+                        "type": "desafio",
+                        "listCod": "LF-C13d",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "C15": [
+                    {
+                        "module": "C15",
+                        "moduleName": "Indu\u00e7\u00e3o Eletromagn\u00e9tica",
+                        "parent": "Desafios",
+                        "parent_child": "C",
+                        "contentName": "Indu\u00e7\u00e3o Eletromagn\u00e9tica",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/desafios-v2\/LFDES26.pdf",
+                        "type": "desafio",
+                        "listCod": "LF-C15d",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ],
+                "C18": [
+                    {
+                        "module": "C18",
+                        "moduleName": "Introdu\u00e7\u00e3o \u00e0 Relatividade Especial",
+                        "parent": "Desafios",
+                        "parent_child": "C",
+                        "contentName": "Introdu\u00e7\u00e3o \u00e0 Relatividade Especial",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/desafios-v2\/LFDES27.pdf",
+                        "type": "desafio",
+                        "listCod": "LF-C18d",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ]
+            }
+        }
+    }
+}

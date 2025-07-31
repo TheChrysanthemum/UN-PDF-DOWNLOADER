@@ -1,0 +1,411 @@
+{
+    "id": 2,
+    "alias": "DMAT",
+    "materials": {
+        "A matem\u00e1tica e os axiomas": {
+            "A matem\u00e1tica e os axiomas": {
+                "DM01": [
+                    {
+                        "module": "1",
+                        "moduleName": "A matem\u00e1tica e os axiomas",
+                        "parent": "MA",
+                        "parent_child": "",
+                        "contentName": "Materiais do M\u00f3dulo 01",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/dmat\/M01.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "1",
+                        "moduleName": "A matem\u00e1tica e os axiomas",
+                        "parent": "MA",
+                        "parent_child": "",
+                        "contentName": "Lista Fixa\u00e7\u00e3o",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/dmat\/UNLista-DM-01f.pdf",
+                        "type": "fixacao",
+                        "listCod": "DM-01f",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "1",
+                        "moduleName": "A matem\u00e1tica e os axiomas",
+                        "parent": "MA",
+                        "parent_child": "",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/dmat\/UNLista-DM-01-N02.pdf",
+                        "type": "exercicio",
+                        "listCod": "DM-01",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ]
+            }
+        },
+        "Decimais e Porcentagem: apenas uma linguagem diferente": {
+            "Decimais e Porcentagem: apenas uma linguagem diferente": {
+                "DM02": [
+                    {
+                        "module": "2",
+                        "moduleName": "Decimais e Porcentagem: apenas uma linguagem diferente",
+                        "parent": "DP",
+                        "parent_child": "",
+                        "contentName": "Materiais do M\u00f3dulo 02",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/dmat\/M02.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "2",
+                        "moduleName": "Decimais e Porcentagem: apenas uma linguagem diferente",
+                        "parent": "DP",
+                        "parent_child": "",
+                        "contentName": "Lista Fixa\u00e7\u00e3o",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/dmat\/UNLista-DM-02f.pdf",
+                        "type": "fixacao",
+                        "listCod": "DM-02f",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "2",
+                        "moduleName": "Decimais e Porcentagem: apenas uma linguagem diferente",
+                        "parent": "DP",
+                        "parent_child": "",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/dmat\/UNLista-DM-02.pdf",
+                        "type": "exercicio",
+                        "listCod": "DM-02",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ]
+            }
+        },
+        "Fatora\u00e7\u00e3o: as regras da multiplica\u00e7\u00e3o": {
+            "Fatora\u00e7\u00e3o: as regras da multiplica\u00e7\u00e3o": {
+                "DM03": [
+                    {
+                        "module": "3",
+                        "moduleName": "Fatora\u00e7\u00e3o: as regras da multiplica\u00e7\u00e3o",
+                        "parent": "FA",
+                        "parent_child": "",
+                        "contentName": "Materiais do M\u00f3dulo 03",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/dmat\/M03.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "3",
+                        "moduleName": "Fatora\u00e7\u00e3o: as regras da multiplica\u00e7\u00e3o",
+                        "parent": "FA",
+                        "parent_child": "",
+                        "contentName": "Lista Fixa\u00e7\u00e3o",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/dmat\/UNLista-DM-03f.pdf",
+                        "type": "fixacao",
+                        "listCod": "DM-03f",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "3",
+                        "moduleName": "Fatora\u00e7\u00e3o: as regras da multiplica\u00e7\u00e3o",
+                        "parent": "FA",
+                        "parent_child": "",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/dmat\/UNLista-DM-03.pdf",
+                        "type": "exercicio",
+                        "listCod": "DM-03",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ]
+            }
+        },
+        "Potencia\u00e7\u00e3o e Convers\u00e3o de Unidades": {
+            "Potencia\u00e7\u00e3o e Convers\u00e3o de Unidades": {
+                "DM04": [
+                    {
+                        "module": "4",
+                        "moduleName": "Potencia\u00e7\u00e3o e Convers\u00e3o de Unidades",
+                        "parent": "PC",
+                        "parent_child": "",
+                        "contentName": "Materiais do M\u00f3dulo 04",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/dmat\/M04.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "4",
+                        "moduleName": "Potencia\u00e7\u00e3o e Convers\u00e3o de Unidades",
+                        "parent": "PC",
+                        "parent_child": "",
+                        "contentName": "Lista Fixa\u00e7\u00e3o",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/dmat\/UNLista-DM-04f.pdf",
+                        "type": "fixacao",
+                        "listCod": "DM-04f",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "4",
+                        "moduleName": "Potencia\u00e7\u00e3o e Convers\u00e3o de Unidades",
+                        "parent": "PC",
+                        "parent_child": "",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/dmat\/UNLista-DM-04.pdf",
+                        "type": "exercicio",
+                        "listCod": "DM-04",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ]
+            }
+        },
+        "Equa\u00e7\u00f5es e a Dan\u00e7a das Letrinhas": {
+            "Equa\u00e7\u00f5es e a Dan\u00e7a das Letrinhas": {
+                "DM05": [
+                    {
+                        "module": "5",
+                        "moduleName": "Equa\u00e7\u00f5es e a Dan\u00e7a das Letrinhas",
+                        "parent": "ED",
+                        "parent_child": "",
+                        "contentName": "Materiais do M\u00f3dulo 05",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/dmat\/M05.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "5",
+                        "moduleName": "Equa\u00e7\u00f5es e a Dan\u00e7a das Letrinhas",
+                        "parent": "ED",
+                        "parent_child": "",
+                        "contentName": "Lista Fixa\u00e7\u00e3o",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/dmat\/UNLista-DM-05f.pdf",
+                        "type": "fixacao",
+                        "listCod": "DM-05f",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "5",
+                        "moduleName": "Equa\u00e7\u00f5es e a Dan\u00e7a das Letrinhas",
+                        "parent": "ED",
+                        "parent_child": "",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/dmat\/UNLista-DM-05.pdf",
+                        "type": "exercicio",
+                        "listCod": "DM-05",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ]
+            }
+        },
+        "No\u00e7\u00f5es primitivas de Geometria e Trigonometria": {
+            "No\u00e7\u00f5es primitivas de Geometria e Trigonometria": {
+                "DM06": [
+                    {
+                        "module": "6",
+                        "moduleName": "No\u00e7\u00f5es primitivas de Geometria e Trigonometria",
+                        "parent": "GT",
+                        "parent_child": "",
+                        "contentName": "Materiais do M\u00f3dulo 06",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/dmat\/M06.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "6",
+                        "moduleName": "No\u00e7\u00f5es primitivas de Geometria e Trigonometria",
+                        "parent": "GT",
+                        "parent_child": "",
+                        "contentName": "Lista Fixa\u00e7\u00e3o",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/dmat\/UNLista-DM-06f.pdf",
+                        "type": "fixacao",
+                        "listCod": "DM-06f",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "6",
+                        "moduleName": "No\u00e7\u00f5es primitivas de Geometria e Trigonometria",
+                        "parent": "GT",
+                        "parent_child": "",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/dmat\/UNLista-DM-06.pdf",
+                        "type": "exercicio",
+                        "listCod": "DM-06",
+                        "flag": "GEOMETRIA",
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "6",
+                        "moduleName": "No\u00e7\u00f5es primitivas de Geometria e Trigonometria",
+                        "parent": "GT",
+                        "parent_child": "",
+                        "contentName": "Lista Aprofundada",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/dmat\/UNLista-DM-06ii.pdf",
+                        "type": "exercicio-ii",
+                        "listCod": "DM-06ii",
+                        "flag": "TRIGONOMETRIA",
+                        "created_at": null,
+                        "stats": null
+                    }
+                ]
+            }
+        },
+        "Proporcionalidade": {
+            "Proporcionalidade": {
+                "DM07": [
+                    {
+                        "module": "7",
+                        "moduleName": "Proporcionalidade",
+                        "parent": "PR",
+                        "parent_child": "",
+                        "contentName": "Materiais do M\u00f3dulo 07",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/dmat\/M07.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "7",
+                        "moduleName": "Proporcionalidade",
+                        "parent": "PR",
+                        "parent_child": "",
+                        "contentName": "Lista Fixa\u00e7\u00e3o",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/dmat\/UNLista-DM-07f.pdf",
+                        "type": "fixacao",
+                        "listCod": "DM-07f",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "7",
+                        "moduleName": "Proporcionalidade",
+                        "parent": "PR",
+                        "parent_child": "",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/dmat\/UNLista-DM-07.pdf",
+                        "type": "exercicio",
+                        "listCod": "DM-07",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ]
+            }
+        },
+        "Introdu\u00e7\u00e3o \u00e0s Fun\u00e7\u00f5es": {
+            "Introdu\u00e7\u00e3o \u00e0s Fun\u00e7\u00f5es": {
+                "DM08": [
+                    {
+                        "module": "8",
+                        "moduleName": "Introdu\u00e7\u00e3o \u00e0s Fun\u00e7\u00f5es",
+                        "parent": "IF",
+                        "parent_child": "",
+                        "contentName": "Materiais do M\u00f3dulo 08",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/dmat\/M08.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "8",
+                        "moduleName": "Introdu\u00e7\u00e3o \u00e0s Fun\u00e7\u00f5es",
+                        "parent": "IF",
+                        "parent_child": "",
+                        "contentName": "Lista Fixa\u00e7\u00e3o",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/dmat\/UNLista-DM-08f.pdf",
+                        "type": "fixacao",
+                        "listCod": "DM-08f",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "8",
+                        "moduleName": "Introdu\u00e7\u00e3o \u00e0s Fun\u00e7\u00f5es",
+                        "parent": "IF",
+                        "parent_child": "",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/dmat\/UNLista-DM-08.pdf",
+                        "type": "exercicio",
+                        "listCod": "DM-08",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ]
+            }
+        },
+        "Curiosidades Matem\u00e1ticas": {
+            "Curiosidades Matem\u00e1ticas": {
+                "DM09": [
+                    {
+                        "module": "9",
+                        "moduleName": "Curiosidades Matem\u00e1ticas",
+                        "parent": "CM",
+                        "parent_child": "",
+                        "contentName": "Materiais do M\u00f3dulo 09",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/materiais\/dmat\/M09.pdf",
+                        "type": "material",
+                        "listCod": "",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    },
+                    {
+                        "module": "9",
+                        "moduleName": "Curiosidades Matem\u00e1ticas",
+                        "parent": "CM",
+                        "parent_child": "",
+                        "contentName": "Lista Embasamento",
+                        "link": "https:\/\/universonarrado.s3.amazonaws.com\/pdf\/lista\/dmat\/UNLista-DM-09f.pdf",
+                        "type": "exercicio",
+                        "listCod": "DM-09f",
+                        "flag": null,
+                        "created_at": null,
+                        "stats": null
+                    }
+                ]
+            }
+        }
+    }
+}
